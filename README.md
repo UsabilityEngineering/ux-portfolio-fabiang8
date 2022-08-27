@@ -1,5 +1,6 @@
 # UX Portfolio
-<img width="254" alt="image" src="https://user-images.githubusercontent.com/68124971/187042058-91951c55-b588-443f-807f-6bed528a5333.png">
+
+![IMG_2107](https://user-images.githubusercontent.com/68124971/187042119-f96b0915-f035-423d-8ffd-4ac047a2102d.png)
 
 ## UX Team Project
  not available ATM

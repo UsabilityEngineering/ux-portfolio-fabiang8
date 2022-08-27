@@ -1,8 +1,8 @@
 # UX Portfolio
-<img width="254" alt="image" src="https://user-images.githubusercontent.com/68124971/187041757-14cf4c9f-95bf-4187-a35f-302fe1fef067.png">
+<img width="254" alt="image" src="https://user-images.githubusercontent.com/68124971/187042058-91951c55-b588-443f-807f-6bed528a5333.png">
 
 ## UX Team Project
- not available 
+ not available ATM
 
 
 ## UX Journal

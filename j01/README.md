@@ -23,7 +23,7 @@ Seamless gaming experience, the interface should not frustrate me.
 - Shows individual player accounts
 - Recognized and known (most popular, largest user base)
 
-(**Weakness)
+(**Weakness**)
 - The design is starting to look dated, when compared to some competitition
 - Does not display current hand being held, which is a common feature I felt like
 \ 

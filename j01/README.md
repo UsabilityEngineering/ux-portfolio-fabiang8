@@ -7,6 +7,7 @@ I use PokerStars from time to time for entertainment.I enjoy playing poker so it
 
 
 In Poker sites it is common to represent the game by using a virtual table and representing the players using hole cards being displayed on the seats.The above picture shows the gaming interface for PokerStars, I believe it is intuitive and easy to recognize. This interface demonstates an application of "Recognition rather than recall". Most of the options to manipulate the interface are readily available , and easy to recognize. When using a Poker gaming interface my main (**goals**) for the interaction would be.\
+\
 (**Goals & Interaction**)
 - That the interface is easy to recognize and use intuitively so it does not interfere with my game
 - Somewhat good looking since I will be looking at it for hours on end

@@ -1,2 +1,3 @@
 # My Experience with BASH
-![image](https://user-images.githubusercontent.com/68124971/206930385-59ea3ba6-a4be-4c59-a42e-02631bc2e0f6.png)
+![image](https://user-images.githubusercontent.com/68124971/206930406-6ce6d816-3b5a-483d-9de5-ce9bb48a1a36.png)
+

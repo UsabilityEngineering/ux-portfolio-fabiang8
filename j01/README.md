@@ -14,16 +14,16 @@ In Poker sites it is common to represent the game by using a virtual table and r
 - I am provided infomation about the game consistently and accurately 
 \
 
-(**Expected Outcome**)\
+(**Expected Outcome**)
 
 Seamless gaming experience, the interface should not frustrate me.
 
-(**Strengths**)\
+(**Strengths**)
 - Easy to understand and use
 - Shows individual player accounts
 - Recognized and known (most popular, largest user base)
 
-(**Weakness)\
+(**Weakness)
 - The design is starting to look dated, when compared to some competitition
 - Does not display current hand being held, which is a common feature I felt like
 \ 

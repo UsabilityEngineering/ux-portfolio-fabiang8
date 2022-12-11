@@ -8,6 +8,6 @@
 
 Hello my name is Fabian Garcia , I am a senior at Chico state in Computer Science. I will be graduating this fall, and am excited to start my career. Some of the things I enjoy doing on my off time are riding my motorcycle , playing poker and spending time with my friends and family.
 
--[Read about my experience with Bash](j01/)
+-[Read about my experience with PokerStars](j01/)
 
 -[Read about my experience with Trading View](j02/)

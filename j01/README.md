@@ -12,5 +12,21 @@ In Poker sites it is common to represent the game by using a virtual table and r
 - That the interface is easy to recognize and use intuitively so it does not interfere with my game
 - Somewhat good looking since I will be looking at it for hours on end
 - I am provided infomation about the game consistently and accurately 
+\
 
+(**Expected Outcome**)\
 
+Seamless gaming experience, the interface should not frustrate me.
+
+(**Strengths**)\
+- Easy to understand and use
+- Shows individual player accounts
+- Recognized and known (most popular, largest user base)
+
+(**Weakness)\
+- The design is starting to look dated, when compared to some competitition
+- Does not display current hand being held, which is a common feature I felt like
+\ 
+
+Competition photo for reference\
+![image](https://user-images.githubusercontent.com/68124971/206932367-dbf02507-c61e-43c7-88f4-3b0de8047703.png)

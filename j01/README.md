@@ -18,12 +18,12 @@ I open PokerStars up , and log in. The first thing I am greeted by is about 30/4
 (**1A**)
 ![image](https://user-images.githubusercontent.com/68124971/206952705-26f83567-7070-438e-9810-22e0bd9117ed.png)
 
-
-
-
-
 (**Narative Con't**)
+The game interface itself is very sleek and learnable. It has a vibrant button for the actions. When I need to Call , Fold ,or Raise everything is clearly marked and visible. It makes my goal of focusing on the game easier. 
 
+
+
+(**1B**)
 ![image](https://user-images.githubusercontent.com/68124971/206931627-5041e635-cc73-4572-8a4d-6be5455e9a9f.png)
 
 (**Expected Outcome**)
@@ -31,14 +31,14 @@ I open PokerStars up , and log in. The first thing I am greeted by is about 30/4
 Seamless gaming experience, the interface should not frustrate me.
 
 (**Strengths**)
-- Easy to understand and use
+- Easy to understand and use (game interface)
 - Shows individual player accounts
 - Recognized and known (most popular, largest user base)
 
 (**Weakness**)
 - The design is starting to look dated, when compared to some competitition
-- Does not display current hand being held, which is a common feature I felt like was a common feature.Such as saying ," you hold , two pair."
-- Finding a game menu is very intimidating , too many options at once
+- Does not display current hand made, which is a common feature among competitors.
+- Finding a game menu is very intimidating , too many options at once (match making interface)
  
 
 Competition photo for reference

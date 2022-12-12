@@ -4,9 +4,6 @@
 
 I use PokerStars from time to time for entertainment.I enjoy playing poker so it is cool to use this application. A common feature for Poker gaming sites is to be recognizable , so that it is easy to use. I believe PokerStars does this better then a lot of other different interfaces which it competes with. 
 
-![image](https://user-images.githubusercontent.com/68124971/206931627-5041e635-cc73-4572-8a4d-6be5455e9a9f.png)
-
-
 In Poker sites it is common to represent the game by using a virtual table and representing the players using hole cards being displayed on the seats.The above picture shows the gaming interface for PokerStars, I believe it is learnable and easy to recognize. This interface demonstates an application of "Recognition rather than recall". Most of the options to manipulate the interface are readily available , and easy to recognize. When using a Poker gaming interface my main (**goals**) for the interaction would be.
 
 (**Goals & Interaction**)
@@ -22,6 +19,12 @@ I open PokerStars up , and log in. The first thing I am greeted by is about 30/4
 ![image](https://user-images.githubusercontent.com/68124971/206952705-26f83567-7070-438e-9810-22e0bd9117ed.png)
 
 
+
+
+
+(**Narative Con't**)
+
+![image](https://user-images.githubusercontent.com/68124971/206931627-5041e635-cc73-4572-8a4d-6be5455e9a9f.png)
 
 (**Expected Outcome**)
 

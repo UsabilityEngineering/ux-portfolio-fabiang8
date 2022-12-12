@@ -5,7 +5,7 @@
 ![image](https://user-images.githubusercontent.com/68124971/206932444-adf979f1-276d-48e2-8352-07992090bcdc.png)
 
 (**Interaction**)
-I use Trading View for when I need more in depth information about a certain stock / asset. It handles most of my needs for the most part , but I do have my gripes with it.I believe that when using it from a web application view , it is okay. When opened in the "full" version it quickly becomes unwieldy and intimidating. I believe this quality of being intimidating is what kept me from adopting it for a while.
+I use Trading View for when I need more in depth information about a certain stock / asset. It handles most of my needs, but I do have my gripes with it.I believe that when using it from a web application view , it is okay. When opened in the "full" version it quickly becomes unwieldy and intimidating. I believe this quality of being intimidating is what kept me from adopting it for a while.
 
 From the Web App view I believe that Trading View is somewhat effective. I believe the nature of these kinds of application will always be complicated due to all the different information they have to display. I believe that over time, I began to learn how to use Trading View and it became more intuitive. Although I would say that it took me longer to learn Trading View then other applications. 
 
@@ -13,6 +13,10 @@ From the Web App view I believe that Trading View is somewhat effective. I belie
 (**Picture for reference Web App**)
 
 ![image](https://user-images.githubusercontent.com/68124971/206933996-e3a0eeea-6702-4c0f-b686-04c397754138.png)
+(**Narative**)
+I open up trading view in the web app , and can use it semi effectively.I see a lot of different buttons on the interface ,but only know what a select few do. I know what these few do , because I had to actively seek out how to use them. I see a lot of interesting information while using the web app, but will only use less then half.
+
+
 
 (**Goals**)
 - Be able to retrieve the information I need effectively 
